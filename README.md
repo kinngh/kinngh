@@ -1,13 +1,35 @@
 ### Hi there 👋
 
-🔭 Working on [WrapItUp - Text Summarizer](https://apps.apple.com/app/id1017676504), [Admin2Dev](https://admin2dev.com)
+#### Work
+- [WrapItUp - Text Summarizer™](https://apps.apple.com/app/id1017676504) - Summarize long text to pointers on your iOS device!
+- [Admin2Dev](https://admin2dev.com) - Learn programming on the Salesforce Platform for free!
 
-🌱 Learning Salesforce Development
+#### Socials
+- [Twitter](https://twitter.com/kinngh)
+- [Instagram](https://instagram.com/kinngh)
+- [Email](harshdeephura@heuramedia.com)
 
-🤔 I’m looking for help with Salesforce Development and writing custom frameworks
+#### Tech Stack
+##### Programming Languages and Frameworks
+- Swift
+- Python
+  - Turicreate
+  - TensorFlow
+  - BeautifulSoup
+- JavaScript
+  - Express
+  - Node.js
+  
+##### Servers
+- Netlify
+- Vercel
+- Heroku
 
-📫 How to reach me: harshdeephura@heuramedia.com
+##### Media
+- Final Cut Pro
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Character Animator
+- Open Broadcasting Software
 
-😄 Pronouns: He / Him
-
-⚡ Fun fact: I am actually 6 feet 9 inches tall!
+> See an index of my toolkit at [kinngh/toolkit](https://github.com/kinngh/toolkit).
