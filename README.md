@@ -5,6 +5,10 @@ Starting out as an iOS developer, I scaled my app WrapItUp to 3M+ users without 
 
 I mentor start-ups with their business models and tech stack, and help them raise their seed rounds when I am not baking (yes, I am a Pastry Chef) or jumping off cliffs (with a parachute, of course).
 
+#### Repo PSAs:
+
+- Salesforce Repos are moved to [Admin2Dev](https://github.com/admin2dev) org profile. `https://github.com/admin2dev`
+
 #### Work
 - [WrapItUp - Text Summarizer™](https://apps.apple.com/app/id1017676504) - Summarize long text to pointers on your iOS device!
 - [Admin2Dev](https://admin2dev.com) - Learn programming on the Salesforce Platform for free!
