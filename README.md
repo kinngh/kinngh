@@ -19,7 +19,7 @@ I mentor start-ups with their business models and tech stack, and help them rais
 #### Socials
 - [Twitter](https://twitter.com/kinngh)
 - [Instagram](https://instagram.com/kinngh)
-- [Email](@mailto:harshdeephura@heuramedia.com)
+- [Email](mailto:harshdeephura@heuramedia.com)
 
 #### Tech Stack
 ##### Programming Languages and Frameworks
