@@ -18,6 +18,7 @@ I mentor start-ups with their business models and tech stack, and help them rais
 
 #### Socials
 - [Twitter](https://twitter.com/kinngh)
+- [LinkedIn](https://www.linkedin.com/in/theharshdeep/)
 - [Instagram](https://instagram.com/kinngh)
 - [Email](mailto:harshdeephura@heuramedia.com)
 
