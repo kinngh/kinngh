@@ -10,7 +10,7 @@ I mentor start-ups with their business models and tech stack, and help them rais
 #### Repo PSAs:
 
 - Salesforce Repos are moved to [Admin2Dev](https://github.com/admin2dev) org profile. `https://github.com/admin2dev`
-- I have recently started to upload my Node/Express boilerplates and libraries. Buckle up as I work on making a few REST APIs open source
+- I have recently started to upload my Node/Express code. Buckle up as I work on making a few REST APIs open source later this year.
 
 #### Work
 - [WrapItUp - Text Summarizer™](https://apps.apple.com/app/id1017676504) - Summarize long text to pointers on your iOS device!
