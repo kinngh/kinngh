@@ -7,6 +7,9 @@ I also write a lot of back-end Node.js and Express code from text parsers to ful
 
 I mentor start-ups with their business models and tech stack, and help them raise their seed rounds when I am not baking (yes, I am a Pastry Chef) or jumping off cliffs (with a parachute, of course).
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinngh)
+
+
 #### Repo PSAs:
 
 - Salesforce Repos are moved to [Admin2Dev](https://github.com/admin2dev) org profile. `https://github.com/admin2dev`
