@@ -1,3 +1,5 @@
+#### I've deleted / archived most of my repositories as I'm in the middle of refactoring my GitHub presence.
+
 ### Hi there 👋
 I am [Harshdeep Singh Hura](https://harshdeephura.com) a Pastry Chef, Entrepreneur, [TEDx Speaker](https://www.youtube.com/watch?v=ty-inz18kzQ), Programmer and Designer! 
 
@@ -12,7 +14,6 @@ Apart from programming, I jump off cliffs and bake (I am a Pastry Chef).
 
 #### Repo PSAs:
 
-- I've deleted / archived most of my repositories as I'm in the middle of refactoring my GitHub presence.
 - Salesforce Repos are moved to [Admin2Dev](https://github.com/admin2dev) org profile. `https://github.com/admin2dev`
 
 #### Work
