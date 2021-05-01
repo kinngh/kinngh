@@ -13,8 +13,8 @@ Apart from programming, I jump off cliffs and bake (I am a Pastry Chef).
 
 
 #### Repo PSAs:
-
 - Salesforce Repos are moved to [Admin2Dev](https://github.com/admin2dev) org profile. `https://github.com/admin2dev`
+- I've removed my Codewars answers, they are now available on my [Codewars profile](https://www.codewars.com/users/kinngh)
 
 #### Work
 - [WrapItUp - Text Summarizer™](https://apps.apple.com/app/id1017676504) - Summarize long text to pointers on your iOS device!
