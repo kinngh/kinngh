@@ -3,7 +3,7 @@ I am [Harshdeep Singh Hura](https://harshdeephura.com) a Pastry Chef, Entreprene
 
 Starting out as an iOS developer, I scaled my app WrapItUp to 3M+ users without a single dollar in marketing! Read more about it on my [Medium post](https://medium.com/@kinngh/refusing-20m-in-acquisition-1-5m-users-and-the-story-of-how-i-built-it-all-for-99-year-1351e624e62f?source=---------3------------------).
 
-I love writing JavaScript Full Stack Applications using the MERNG Stack (MongoDB, Express, React, Node and GraphQL) and SwiftUI based iOS apps. I'm now moving towards being building themes and applications on the Shopify platform full-time.
+I love writing JavaScript Full Stack Applications using the MERNG Stack (MongoDB, Express, React, Node and GraphQL) and SwiftUI based iOS apps. I'm now moving towards building themes and applications on the Shopify platform.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinngh)
