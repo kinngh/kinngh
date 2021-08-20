@@ -6,9 +6,6 @@ Starting out as an iOS developer, I scaled my app WrapItUp to 3M+ users without 
 I love writing JavaScript Full Stack Applications using the MERNG Stack (MongoDB, Express, React, Node and GraphQL) and SwiftUI based iOS apps. I'm now moving towards building themes and applications on the Shopify platform.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinngh)
-
-
 #### Repo PSAs:
 - Salesforce Repos are moved to [Admin2Dev](https://github.com/admin2dev) org profile. `https://github.com/admin2dev`
 - I've removed my Codewars answers, they are now available on my [Codewars profile](https://www.codewars.com/users/kinngh)
