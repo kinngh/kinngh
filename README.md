@@ -19,5 +19,3 @@ I love writing JavaScript Full Stack Applications using the MERNG Stack (MongoDB
 - [Twitter](https://twitter.com/kinngh)
 - [LinkedIn](https://www.linkedin.com/in/theharshdeep/)
 - [Email](mailto:harshdeephura@heuramedia.com)
-
-<img src="https://profile-counter.glitch.me/kinngh/count.svg" />
